@@ -1,39 +1,61 @@
-# 👋Hello! I'm 3efeoyunda1.
-![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=%235865F2&labelColor=black)
-![GitHub Followers](https://img.shields.io/github/followers/3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=%23181717&color=white)
-![GitHub Stars](https://img.shields.io/github/stars/3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=%23181717&color=white)
+<div align="center">
 
-## Languages I am trying to learn myself:
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=000000)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=000000)
-## Languages I studied at school:
-![Pyhton](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=000000)
-![PpostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=000000)
-![Microsoft SQL Server](https://img.shields.io/badge/microsoft-sql_server-red?style=for-the-badge&labelColor=000000)
+# Hi, I'm 3efeoyunda1 👋
 
-## About me
-I'm A3efeoyunda1. I'm 18 years old. I study computer programming at Nişatnaşı University.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Computer+Programming+Graduate;Interested+in+Linux+%E2%80%A2+Backend+%E2%80%A2+Systems;Building+software+and+exploring+how+things+work)](https://git.io/typing-svg)
 
-**GitHub Stats:**
+<a href="https://www.linkedin.com/in/efe-can-karaoglan/">
+  <img src="./assets/linkedin.svg" height="48" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/688100345775521903">
+  <img src="./assets/discord.svg" height="48" alt="Discord">
+</a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3efeoyunda1&show_icons=true&theme=github_dark&border_color=2C323A&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3efeoyunda1&layout=compact&theme=github_dark&border_color=2C323A)
+## 👨‍💻 About Me
 
+I'm a **Computer Programming graduate** interested in **Linux, backend development, system programming, and web technologies**.
 
-<!--
-**3efeoyunda1/3efeoyunda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building practical software, working with hardware/software interaction, and understanding how systems work under the hood.
 
-Here are some ideas to get you started:
+Currently focused on improving my skills and building software while looking for opportunities to grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python,cs&theme=dark" />
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,postgres,mysql&theme=dark" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode&theme=dark" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=3efeoyunda1&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3efeoyunda1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=3efeoyunda1&theme=github-dark-blue&hide_border=true&background=00000000" />
+
+</div>
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/3efeoyunda1/3efeoyunda1/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
