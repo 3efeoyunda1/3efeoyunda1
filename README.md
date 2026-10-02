@@ -1,7 +1,7 @@
 # 👋Hello! I'm 3efeoyunda1.
 ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=%235865F2&labelColor=black)
-![GitHub Followers](https://img.shields.io/github/followers/A3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=%23181717&color=white)
-![GitHub Stars](https://img.shields.io/github/stars/A3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=%23181717&color=white)
+![GitHub Followers](https://img.shields.io/github/followers/3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=%23181717&color=white)
+![GitHub Stars](https://img.shields.io/github/stars/3efeoyunda1?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=%23181717&color=white)
 
 ## Languages I am trying to learn myself:
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=000000)
