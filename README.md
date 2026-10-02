@@ -4,13 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Computer+Programming+Graduate;Interested+in+Linux+%E2%80%A2+Backend+%E2%80%A2+Systems;Building+software+and+exploring+how+things+work)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/efe-can-karaoglan/">
-  <img src="./assets/linkedin.svg" height="48" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/688100345775521903">
-  <img src="./assets/discord.svg" height="48" alt="Discord">
-</a>
+<a href="https://www.linkedin.com/in/efe-can-karaoglan/"><img src="./assets/linkedin.svg" height="38" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/688100345775521903"><img src="./assets/discord.svg" height="38" alt="Discord"></a>
 </div>
 
 ## 👨‍💻 About Me
