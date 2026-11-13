@@ -38,8 +38,8 @@ Currently focused on improving my skills and building software while looking for
 
 <div align="center">
 
-<img height="165" src="https://github-readme-extended.vercel.app/api?username=3efeoyunda1&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
-<img height="165" src="https://github-readme-extended.vercel.app/api/top-langs/?username=3efeoyunda1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=3efeoyunda1&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=3efeoyunda1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
 
 <br>
 
